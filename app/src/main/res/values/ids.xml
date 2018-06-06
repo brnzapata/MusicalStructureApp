@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Used on the MainActivity Screen-->
+    <item type="id" name="drake_textview"/>
+    <item type="id" name="the_weeknd_textview"/>
+
+    <!--Found in list_item.xml-->
+    <item type="id" name="songTitle"/>
+    <item type="id" name="songAlbum"/>
+
+    <!--Found in artist_page.xml-->
+    <item type="id" name="list_of_songs"/>
+    <item type="id" name="name_of_artist"/>
+    <item type="id" name="artist_image"/>
+</resources>

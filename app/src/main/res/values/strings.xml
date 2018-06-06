@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="select_artist">Select an artist to view their page</string>
+    <string name="now_playing_message">The song plays in a complete music app</string>
+    <string name="artist_drake">Drake</string>
+    <string name="the_weeknd">The Weeknd</string>
+</resources>
